@@ -4,6 +4,10 @@
       "route": "/profile",
       "allowedRoles": ["authenticated"]
     },
+	{
+      "route": "/products,
+      "allowedRoles": ["authenticated"]
+    },
     {
       "route": "/admin/*",
       "allowedRoles": ["administrator"]

@@ -5,7 +5,7 @@
       "allowedRoles": ["authenticated"]
     },
 	{
-      "route": "/products,
+      "route": "/products",
       "allowedRoles": ["authenticated"]
     },
     {

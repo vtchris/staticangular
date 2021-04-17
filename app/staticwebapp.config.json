@@ -59,8 +59,8 @@
     }
   ],
   "navigationFallback": {
-    "rewrite": "index.html",
-    "exclude": ["/images/*.{png,jpg,gif}", "/css/*"]
+    "rewrite": "navigationfallback.html",
+    "exclude": ["/images/*.{png,jpg}", "/css/*"]
   },
   "responseOverrides": {
     "400": {
